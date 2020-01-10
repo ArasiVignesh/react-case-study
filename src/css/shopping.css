@@ -1,0 +1,71 @@
+.shopOnline{
+    text-align: left;
+    min-height: unset;
+    background-color:rgb(175, 204, 204);
+    display:inline-block;
+    width:100%;
+
+}
+.shopOnline div{
+    display:inline-block;
+}
+.shopList {
+    display:inline;
+    list-style-type: none;
+}
+.shopList h1{
+    display:inline;
+}
+#home-logo
+{
+   flex-direction: initial;
+
+}
+#cart{
+    margin-left:1em;
+   margin-top:1em;
+   font-size:30px;
+  
+}
+
+#searchBar{
+    float:left;
+    position:absolute;
+    margin-left:25em;
+    margin-right:5em;
+    margin-top:2.2em;
+
+}
+.App-logo{
+    width:100px;
+    height:100px;
+    float:left;
+    position:relative;
+}
+#right-div{
+    float:right;
+
+}
+.prod-logo{
+    width:100%;
+    display:inline-block;
+}
+.prod-logo div{
+   
+    display:inline-block;
+}
+.prod-logo p button{
+    margin-left:5em;
+}
+.prod-logo img{
+    width:300px;
+    height:300px;
+}
+.foot-page{
+    background-color:rgb(175, 204, 204);
+    padding:20px;
+}
+.foot-page div{
+    display:inline-block;
+    padding:20px;
+}
