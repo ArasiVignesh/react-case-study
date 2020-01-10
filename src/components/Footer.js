@@ -10,7 +10,7 @@ class Footer extends React.Component{
             </div>
             <div>Site Map</div>
             <div>
-                Privacy
+                Privacy...
             </div>
             </div>
         );
